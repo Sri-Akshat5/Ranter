@@ -1,11 +1,11 @@
 
-# Ranter - Anonymous Feedback System
-## A simple and secure anonymous feedback platform where users can share their thoughts without revealing their identity.
+# Ranter - Anonymous Rant System
+## A simple and secure anonymous rant platform where users can share their thoughts without revealing their identity.
 
 ##DESCRIPTION
 
 ## 🚀 Features
-- Submit anonymous feedback
+- Submit anonymous rants
 - View public rants
 - Admin panel for management
 - Responsive design (Mobile & Desktop)
