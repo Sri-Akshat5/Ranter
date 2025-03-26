@@ -2,7 +2,7 @@
 # Ranter - Anonymous Rant System
 ## A simple and secure anonymous rant platform where users can share their thoughts without revealing their identity.
 
-##DESCRIPTION
+## DESCRIPTION
 
 ## 🚀 Features
 - Submit anonymous rants
